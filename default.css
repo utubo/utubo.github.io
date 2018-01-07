@@ -13,6 +13,7 @@ body {
 }
 .title {
 	font-weight: bold;
+	color: #444;
 }
 .icon {
 	height: 1.2em;
