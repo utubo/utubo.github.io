@@ -1,0 +1,22 @@
+body {
+	background: #ececee;
+	color: #444;
+}
+.button-h {
+	background: #ccc;
+	border-radius: 3px;
+	color: #444;
+	display:block;
+	margin: .5em;
+	padding: .5em;
+	text-decoration: none;
+}
+.title {
+	font-weight: bold;
+}
+.note {
+	display: block;
+	font-size: 80%;
+	opacity: 0.8;
+}
+
