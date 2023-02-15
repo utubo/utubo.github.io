@@ -1,4 +1,4 @@
 include:
-  - †/
-  - †/.well-known/
-  - %E2%80%A0/
+  - "†/"
+  - "†/.well-known/"
+  - "%E2%80%A0/"
